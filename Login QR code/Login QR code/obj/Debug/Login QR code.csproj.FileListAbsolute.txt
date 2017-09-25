@@ -1,0 +1,42 @@
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\Login QR code.exe
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\Login QR code.pdb
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.dll
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.Video.dll
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.dll
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.presentation.dll
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.xml
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.Video.xml
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.pdb
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.xml
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.presentation.pdb
+C:\Users\nguye\Desktop\Login QR code\Login QR code\bin\Debug\zxing.presentation.xml
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login QR code.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login_QR_code.Form1.resources
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login_QR_code.Form2.resources
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login_QR_code.Properties.Resources.resources
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login QR code.csproj.GenerateResource.Cache
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login QR code.exe
+C:\Users\nguye\Desktop\Login QR code\Login QR code\obj\Debug\Login QR code.pdb
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login QR code.exe
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login QR code.pdb
+G:\do an 1\Login QR code\Login QR code\bin\Debug\Login QR code.exe
+G:\do an 1\Login QR code\Login QR code\bin\Debug\Login QR code.pdb
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.dll
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.Video.DirectShow.dll
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.Video.dll
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.dll
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.presentation.dll
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.xml
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.Video.xml
+G:\do an 1\Login QR code\Login QR code\bin\Debug\AForge.Video.DirectShow.xml
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.pdb
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.xml
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.presentation.pdb
+G:\do an 1\Login QR code\Login QR code\bin\Debug\zxing.presentation.xml
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login QR code.csprojResolveAssemblyReference.cache
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login_QR_code.Form1.resources
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login_QR_code.Form2.resources
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login_QR_code.Properties.Resources.resources
+G:\do an 1\Login QR code\Login QR code\obj\Debug\Login QR code.csproj.GenerateResource.Cache
