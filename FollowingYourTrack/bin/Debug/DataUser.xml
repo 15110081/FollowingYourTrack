@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <ID>1</ID>
+    <Username>NhatMinh</Username>
+    <Password_Encoded>827ccbeea8a706c4c34a16891f84e7b</Password_Encoded>
+    <Hint>1-5</Hint>
+  </User>
+  <User>
+    <ID>2</ID>
+    <Username>nhatminh</Username>
+    <Password_Encoded>827ccbeea8a706c4c34a16891f84e7b</Password_Encoded>
+    <Hint>1-5</Hint>
+  </User>
+</Users>

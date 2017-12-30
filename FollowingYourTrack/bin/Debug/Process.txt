@@ -1,0 +1,390 @@
+machine name is DESKTOP-PIBLKPK||software you use Microsoft Windows NT 6.2.9200.0||user name is Hiomca|| system start since milesecond : 530413046
+
+Process ID: 1292 ||Process Name: svchost || User Time: 00:00:13.0312500 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 11204 ||Process Name: ShellExperienceHost || User Time: 00:00:14.3593750 || Start at :12/29/2017 8:22:41 AM
+
+Process ID: 3876 ||Process Name: ServiceHub.VSDetouredHost || User Time: 00:00:06.0625000 || Start at :12/29/2017 10:47:13 PM
+
+Process ID: 8616 ||Process Name: csrss || User Time: 00:01:15.8906250 || Start at :12/29/2017 1:53:37 AM
+
+Process ID: 4736 ||Process Name: sqlservr || User Time: 02:13:35.6875000 || Start at :12/23/2017 7:32:45 PM
+
+Process ID: 392 ||Process Name: svchost || User Time: 00:04:43.5000000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 9044 ||Process Name: svchost || User Time: 00:00:00.8281250 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 1284 ||Process Name: svchost || User Time: 00:00:02.1406250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 5160 ||Process Name: VBCSCompiler || User Time: 00:00:02.8281250 || Start at :12/29/2017 10:47:27 PM
+
+Process ID: 940 ||Process Name: svchost || User Time: 00:02:08.8437500 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 4728 ||Process Name: sqlservr || User Time: 02:12:17.8281250 || Start at :12/23/2017 7:32:45 PM
+
+Process ID: 10760 ||Process Name: svchost || User Time: 00:00:00.6093750 || Start at :12/23/2017 9:05:47 PM
+
+Process ID: 1276 ||Process Name: svchost || User Time: 00:00:01 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 316 ||Process Name: smss || User Time: 00:00:00.1093750 || Start at :12/23/2017 7:32:40 PM
+
+Process ID: 3860 ||Process Name: browser || User Time: 00:02:02.7343750 || Start at :12/29/2017 7:19:49 PM
+
+Process ID: 4720 ||Process Name: svchost || User Time: 00:00:02.2031250 || Start at :12/23/2017 9:42:51 PM
+
+Process ID: 10752 ||Process Name: igfxEM || User Time: 00:00:00.2187500 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 1268 ||Process Name: svchost || User Time: 00:00:00.8750000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 3852 ||Process Name: svchost || User Time: 00:00:05.2343750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2116 ||Process Name: svchost || User Time: 00:00:04.0781250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2984 ||Process Name: MSBuild || User Time: 00:00:01 || Start at :12/29/2017 10:47:26 PM
+
+Process ID: 2552 ||Process Name: svchost || User Time: 00:00:22.6093750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3840 ||Process Name: svchost || User Time: 00:00:00.0312500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 4268 ||Process Name: svchost || User Time: 00:00:00.0625000 || Start at :12/23/2017 7:32:45 PM
+
+Process ID: 1680 ||Process Name: svchost || User Time: 00:00:00.2500000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 11592 ||Process Name: RuntimeBroker || User Time: 00:00:00.1562500 || Start at :12/29/2017 11:13:34 AM
+
+Process ID: 9928 ||Process Name: browser || User Time: 00:21:24.3281250 || Start at :12/29/2017 6:57:56 PM
+
+Process ID: 2536 ||Process Name: svchost || User Time: 00:00:01.5156250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2104 ||Process Name: svchost || User Time: 00:00:01.1250000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 5980 ||Process Name: svchost || User Time: 00:00:13.7656250 || Start at :12/23/2017 7:32:49 PM
+
+Process ID: 3820 ||Process Name: sqlwriter || User Time: 00:00:00 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 6836 ||Process Name: GoogleCrashHandler || User Time: 00:00:00.3437500 || Start at :12/23/2017 7:32:50 PM
+
+Process ID: 7592 ||Process Name: browser || User Time: 00:02:17.3125000 || Start at :12/29/2017 7:14:50 PM
+
+Process ID: 12004 ||Process Name: browser || User Time: 00:07:04.1250000 || Start at :12/29/2017 8:23:00 AM
+
+Process ID: 1656 ||Process Name: svchost || User Time: 00:00:00.3125000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 6396 ||Process Name: svchost || User Time: 00:00:01.9843750 || Start at :12/23/2017 7:32:49 PM
+
+Process ID: 12204 ||Process Name: dllhost || User Time: 00:00:00.0781250 || Start at :12/29/2017 5:55:25 PM
+
+Process ID: 11996 ||Process Name: browser || User Time: 01:52:56.2500000 || Start at :12/29/2017 8:22:59 AM
+
+Process ID: 2080 ||Process Name: svchost || User Time: 00:01:33.4687500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2672 ||Process Name: OneDrive || User Time: 00:00:00.4062500 || Start at :12/29/2017 8:22:55 AM
+
+Process ID: 484 ||Process Name: svchost || User Time: 00:00:04.5156250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 8536 ||Process Name: fontdrvhost || User Time: 00:00:00.5781250 || Start at :12/29/2017 1:53:38 AM
+
+Process ID: 7240 ||Process Name: RAVBg64 || User Time: 00:00:00.1875000 || Start at :12/29/2017 8:22:54 AM
+
+Process ID: 9824 ||Process Name: dwm || User Time: 00:18:36.8281250 || Start at :12/29/2017 1:53:37 AM
+
+Process ID: 9392 ||Process Name: SystemSettings || User Time: 00:00:00.4218750 || Start at :12/29/2017 11:13:54 AM
+
+Process ID: 11976 ||Process Name: CocCocUpdate || User Time: 00:00:00.2812500 || Start at :12/29/2017 8:22:58 AM
+
+Process ID: 2920 ||Process Name: SystemSettingsBroker || User Time: 00:00:00.4531250 || Start at :12/29/2017 2:56:04 PM
+
+Process ID: 2488 ||Process Name: ServiceHub.RoslynCodeAnalysisService32 || User Time: 00:00:05.1562500 || Start at :12/29/2017 10:47:15 PM
+
+Process ID: 2128 ||Process Name: igfxCUIService || User Time: 00:00:00.4062500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 6364 ||Process Name: conhost || User Time: 00:00:00.0156250 || Start at :12/29/2017 10:47:27 PM
+
+Process ID: 3536 ||Process Name: svchost || User Time: 00:03:28.9843750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 5496 ||Process Name: SearchUI || User Time: 00:00:02.5312500 || Start at :12/29/2017 8:22:41 AM
+
+Process ID: 3768 ||Process Name: SecurityHealthService || User Time: 00:00:01.3750000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 1896 ||Process Name: audiodg || User Time: 01:15:33.7656250 || Start at :12/28/2017 6:03:37 PM
+
+Process ID: 748 ||Process Name: SearchFilterHost || User Time: 00:00:00.0312500 || Start at :12/29/2017 10:51:40 PM
+
+Process ID: 2040 ||Process Name: svchost || User Time: 00:00:00.0937500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2468 ||Process Name: svchost || User Time: 00:00:33.5625000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 6776 ||Process Name: svchost || User Time: 00:00:05.0312500 || Start at :12/29/2017 8:36:51 AM
+
+Process ID: 1172 ||Process Name: svchost || User Time: 00:00:00.2968750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 7892 ||Process Name: fsnotifier || User Time: 00:00:43.6093750 || Start at :12/29/2017 11:02:01 AM
+
+Process ID: 8752 ||Process Name: SearchProtocolHost || User Time: 00:00:00.0312500 || Start at :12/29/2017 10:51:40 PM
+
+Process ID: 9356 ||Process Name: svchost || User Time: 00:00:00.9375000 || Start at :12/29/2017 3:06:42 PM
+
+Process ID: 5904 ||Process Name: UniKeyNT || User Time: 00:00:04.8906250 || Start at :12/29/2017 8:22:56 AM
+
+Process ID: 1592 ||Process Name: svchost || User Time: 00:00:16.2343750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 728 ||Process Name: lsass || User Time: 00:01:19.2343750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 3744 ||Process Name: mysqld || User Time: 00:00:03.6093750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 5032 ||Process Name: browser || User Time: 00:00:03.9218750 || Start at :12/29/2017 8:23:00 AM
+
+Process ID: 7216 ||Process Name: sihost || User Time: 00:00:06.9218750 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 3732 ||Process Name: svchost || User Time: 00:00:00.0156250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2868 ||Process Name: svchost || User Time: 00:07:59.4843750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3296 ||Process Name: spoolsv || User Time: 00:00:10.0156250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2432 ||Process Name: svchost || User Time: 00:00:06 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2860 ||Process Name: CocCocCrashHandler || User Time: 00:00:00.0312500 || Start at :12/29/2017 8:22:59 AM
+
+Process ID: 5872 ||Process Name: TortoiseGitProc || User Time: 00:00:01.7812500 || Start at :12/29/2017 10:44:42 PM
+
+Process ID: 1992 ||Process Name: svchost || User Time: 00:00:22.2500000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 1560 ||Process Name: svchost || User Time: 00:00:07.3125000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 2420 ||Process Name: svchost || User Time: 00:00:17.1875000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 8444 ||Process Name: dllhost || User Time: 00:00:00.1093750 || Start at :12/29/2017 8:36:47 AM
+
+Process ID: 2840 ||Process Name: svchost || User Time: 00:00:00.2968750 || Start at :12/24/2017 8:35:36 AM
+
+Process ID: 8440 ||Process Name: svchost || User Time: 00:00:00.0312500 || Start at :12/23/2017 9:05:48 PM
+
+Process ID: 7144 ||Process Name: browser || User Time: 00:00:20.4843750 || Start at :12/29/2017 4:24:23 PM
+
+Process ID: 2832 ||Process Name: svchost || User Time: 00:00:00.6406250 || Start at :12/23/2017 7:34:46 PM
+
+Process ID: 676 ||Process Name: services || User Time: 00:01:32.0312500 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 7380 ||Process Name: RuntimeBroker || User Time: 00:00:01.4062500 || Start at :12/29/2017 8:22:42 AM
+
+Process ID: 3260 ||Process Name: ServiceHub.IdentityHost || User Time: 00:00:01.3593750 || Start at :12/29/2017 10:47:10 PM
+
+Process ID: 5844 ||Process Name: browser || User Time: 00:01:18.7500000 || Start at :12/29/2017 4:28:08 PM
+
+Process ID: 3252 ||Process Name: svchost || User Time: 00:00:00.0312500 || Start at :12/29/2017 10:17:31 PM
+
+Process ID: 8844 ||Process Name: svchost || User Time: 00:00:07.4531250 || Start at :12/23/2017 7:32:53 PM
+
+Process ID: 2376 ||Process Name: mpc-hc64 || User Time: 00:05:08.5625000 || Start at :12/29/2017 11:02:01 AM
+
+Process ID: 820 ||Process Name: StandardCollector.Service || User Time: 00:00:00.8750000 || Start at :12/29/2017 10:47:01 PM
+
+Process ID: 8044 ||Process Name: ETDCtrl || User Time: 00:00:45.7031250 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 10988 ||Process Name: svchost || User Time: 00:00:00.0156250 || Start at :12/29/2017 10:47:03 PM
+
+Process ID: 12280 ||Process Name: WinStore.App || User Time: 00:00:00.5781250 || Start at :12/29/2017 11:13:23 AM
+
+Process ID: 1056 ||Process Name: RuntimeBroker || User Time: 00:00:02.8906250 || Start at :12/29/2017 11:13:44 AM
+
+Process ID: 1500 ||Process Name: ServiceHub.SettingsHost || User Time: 00:00:02.7656250 || Start at :12/29/2017 10:47:17 PM
+
+Process ID: 9688 ||Process Name: svchost || User Time: 00:00:45.5000000 || Start at :12/23/2017 7:42:45 PM
+
+Process ID: 636 ||Process Name: RAVBg64 || User Time: 00:00:00.1718750 || Start at :12/29/2017 8:22:54 AM
+
+Process ID: 2788 ||Process Name: VBCSCompiler || User Time: 00:00:03.5781250 || Start at :12/29/2017 10:46:59 PM
+
+Process ID: 12624 ||Process Name: FollowingYourTrack || User Time: 00:00:04.2187500 || Start at :12/29/2017 10:52:41 PM
+
+Process ID: 5752 ||Process Name: ServiceHub.DataWarehouseHost || User Time: 00:00:11.5468750 || Start at :12/29/2017 10:47:29 PM
+
+Process ID: 3716 ||Process Name: svchost || User Time: 00:00:02.3437500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2544 ||Process Name: svchost || User Time: 00:00:04.4687500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 8328 ||Process Name: smartscreen || User Time: 00:00:00.0312500 || Start at :12/29/2017 10:46:00 PM
+
+Process ID: 3204 ||Process Name: svchost || User Time: 00:00:01.2500000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 7704 ||Process Name: HxTsr || User Time: 00:00:01.0625000 || Start at :12/29/2017 11:13:33 AM
+
+Process ID: 7392 ||Process Name: ServiceHub.Host.CLR.x86 || User Time: 00:00:01.1250000 || Start at :12/29/2017 10:47:25 PM
+
+Process ID: 7288 ||Process Name: svchost || User Time: 00:00:00.1250000 || Start at :12/29/2017 10:51:43 PM
+
+Process ID: 10948 ||Process Name: svchost || User Time: 00:00:01.7031250 || Start at :12/24/2017 12:31:07 AM
+
+Process ID: 3620 ||Process Name: dvt-jb_licsrv.amd64 || User Time: 00:00:00.0156250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 8032 ||Process Name: PerfWatson2 || User Time: 00:00:01.3593750 || Start at :12/29/2017 10:47:09 PM
+
+Process ID: 5772 ||Process Name: ETDCtrlHelper || User Time: 00:00:00.1718750 || Start at :12/29/2017 8:22:41 AM
+
+Process ID: 7924 ||Process Name: conhost || User Time: 00:00:00.0312500 || Start at :12/29/2017 11:02:25 AM
+
+Process ID: 596 ||Process Name: wininit || User Time: 00:00:00.0937500 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 2316 ||Process Name: svchost || User Time: 00:00:25.7812500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 1452 ||Process Name: svchost || User Time: 00:00:41.6406250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 7916 ||Process Name: SearchIndexer || User Time: 00:05:00.6093750 || Start at :12/23/2017 7:32:51 PM
+
+Process ID: 3604 ||Process Name: svchost || User Time: 00:00:07.1093750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 12476 ||Process Name: WmiPrvSE || User Time: 00:00:00.1250000 || Start at :12/29/2017 10:47:31 PM
+
+Process ID: 1848 ||Process Name: RuntimeBroker || User Time: 00:00:05.4375000 || Start at :12/29/2017 8:22:42 AM
+
+Process ID: 3600 ||Process Name: browser || User Time: 00:13:19.4843750 || Start at :12/29/2017 3:49:04 PM
+
+Process ID: 6616 ||Process Name: LenovoUpdate || User Time: 00:00:01.8906250 || Start at :12/23/2017 7:32:49 PM
+
+Process ID: 9976 ||Process Name: TGitCache || User Time: 00:00:00.7187500 || Start at :12/29/2017 10:41:11 PM
+
+Process ID: 11488 ||Process Name: ServiceHub.Host.Node.x86 || User Time: 00:00:00.7812500 || Start at :12/29/2017 10:47:10 PM
+
+Process ID: 3164 ||Process Name: svchost || User Time: 00:00:04.8593750 || Start at :12/23/2017 7:32:52 PM
+
+Process ID: 9196 ||Process Name: jusched || User Time: 00:00:00.2656250 || Start at :12/29/2017 8:23:09 AM
+
+Process ID: 1868 ||Process Name: dasHost || User Time: 00:00:03.9531250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3160 ||Process Name: taskhostw || User Time: 00:00:00.8281250 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 8180 ||Process Name: svchost || User Time: 00:00:00.0156250 || Start at :12/29/2017 10:17:36 PM
+
+Process ID: 756 ||Process Name: RuntimeBroker || User Time: 00:00:00.0625000 || Start at :12/29/2017 11:13:33 AM
+
+Process ID: 3588 ||Process Name: FoxitConnectedPDFService || User Time: 00:03:14.7968750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 11776 ||Process Name: winlogon || User Time: 00:00:00.2656250 || Start at :12/29/2017 1:53:37 AM
+
+Process ID: 10480 ||Process Name: browser || User Time: 00:00:00.1093750 || Start at :12/29/2017 8:22:59 AM
+
+Process ID: 6168 ||Process Name: igfxHK || User Time: 00:00:00.0468750 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 2288 ||Process Name: svchost || User Time: 00:00:00.0468750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3580 ||Process Name: svchost || User Time: 00:00:03.6406250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 11768 ||Process Name: browser || User Time: 00:26:17.1093750 || Start at :12/29/2017 4:28:25 PM
+
+Process ID: 992 ||Process Name: WUDFHost || User Time: 00:00:00.1093750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 4868 ||Process Name: conhost || User Time: 00:00:00.0156250 || Start at :12/29/2017 10:47:10 PM
+
+Process ID: 2400 ||Process Name: svchost || User Time: 00:00:07.3906250 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 3572 ||Process Name: ibtsiva || User Time: 00:00:00.0781250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 6588 ||Process Name: browser || User Time: 00:08:17.7968750 || Start at :12/29/2017 6:22:23 PM
+
+Process ID: 976 ||Process Name: idea || User Time: 00:04:42.2500000 || Start at :12/29/2017 11:01:51 AM
+
+Process ID: 3560 ||Process Name: ETDService || User Time: 00:00:00 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2716 ||Process Name: svchost || User Time: 00:00:53.0468750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3552 ||Process Name: armsvc || User Time: 00:00:00.0468750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 1824 ||Process Name: svchost || User Time: 00:00:00.8593750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 3544 ||Process Name: svchost || User Time: 00:00:38.0156250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 2248 ||Process Name: browser || User Time: 00:00:09.2968750 || Start at :12/29/2017 8:23:00 AM
+
+Process ID: 7848 ||Process Name: browser || User Time: 02:07:26.1718750 || Start at :12/29/2017 8:22:59 AM
+
+Process ID: 8708 ||Process Name: RuntimeBroker || User Time: 00:00:00.2656250 || Start at :12/29/2017 8:22:44 AM
+
+Process ID: 8276 ||Process Name: ApplicationFrameHost || User Time: 00:00:01.2656250 || Start at :12/29/2017 11:13:23 AM
+
+Process ID: 6120 ||Process Name: svchost || User Time: 00:00:00.1406250 || Start at :12/23/2017 7:32:49 PM
+
+Process ID: 10428 ||Process Name: devenv || User Time: 00:00:44.6093750 || Start at :12/29/2017 10:47:08 PM
+
+Process ID: 9996 ||Process Name: browser || User Time: 00:00:04.1718750 || Start at :12/29/2017 10:44:57 PM
+
+Process ID: 7836 ||Process Name: explorer || User Time: 00:02:02.7812500 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 504 ||Process Name: conhost || User Time: 00:00:00 || Start at :12/29/2017 10:46:59 PM
+
+Process ID: 1796 ||Process Name: svchost || User Time: 00:08:00.4375000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 9552 ||Process Name: ctfmon || User Time: 00:00:24.5312500 || Start at :12/29/2017 8:22:43 AM
+
+Process ID: 11208 ||Process Name: conhost || User Time: 00:00:00.0312500 || Start at :12/29/2017 10:47:27 PM
+
+Process ID: 496 ||Process Name: csrss || User Time: 00:00:03.7656250 || Start at :12/23/2017 7:32:42 PM
+
+Process ID: 2020 ||Process Name: Memory Compression || User Time: 00:05:12.1406250 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 4052 ||Process Name: browser || User Time: 00:00:06.2343750 || Start at :12/29/2017 8:23:00 AM
+
+Process ID: 1788 ||Process Name: svchost || User Time: 00:00:00.4218750 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 1356 ||Process Name: RuntimeBroker || User Time: 00:00:01.0468750 || Start at :12/29/2017 11:13:23 AM
+
+Process ID: 3936 ||Process Name: browser || User Time: 00:09:02.3125000 || Start at :12/29/2017 3:53:21 PM
+
+Process ID: 6320 ||Process Name: java || User Time: 00:00:11.5937500 || Start at :12/29/2017 11:02:25 AM
+
+Process ID: 2208 ||Process Name: svchost || User Time: 00:00:01.0312500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 1776 ||Process Name: svchost || User Time: 00:00:01.0468750 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 3068 ||Process Name: svchost || User Time: 00:00:19.9062500 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 9100 ||Process Name: conhost || User Time: 00:00:00.0156250 || Start at :12/29/2017 11:02:01 AM
+
+Process ID: 8668 ||Process Name: GoogleCrashHandler64 || User Time: 00:00:00.0156250 || Start at :12/23/2017 7:32:52 PM
+
+Process ID: 6512 ||Process Name: svchost || User Time: 00:00:00.6093750 || Start at :12/29/2017 12:24:28 PM
+
+Process ID: 908 ||Process Name: igfxTray || User Time: 00:00:00.5468750 || Start at :12/29/2017 8:22:40 AM
+
+Process ID: 2200 ||Process Name: svchost || User Time: 00:00:01.3125000 || Start at :12/23/2017 7:32:44 PM
+
+Process ID: 8232 ||Process Name: svchost || User Time: 00:00:00.7187500 || Start at :12/23/2017 7:32:52 PM
+
+Process ID: 900 ||Process Name: fontdrvhost || User Time: 00:00:00.1250000 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 6500 ||Process Name: RAVBg64 || User Time: 00:00:00.1718750 || Start at :12/29/2017 8:22:55 AM
+
+Process ID: 5636 ||Process Name: SkypeHost || User Time: 00:00:01.7031250 || Start at :12/29/2017 8:22:55 AM
+
+Process ID: 1144 ||Process Name: svchost || User Time: 00:00:02.3906250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 1752 ||Process Name: HxOutlook || User Time: 00:00:01.0781250 || Start at :12/29/2017 11:13:33 AM
+
+Process ID: 4768 ||Process Name: sqlceip || User Time: 00:00:07.3281250 || Start at :12/23/2017 7:32:45 PM
+
+Process ID: 9508 ||Process Name: RAVCpl64 || User Time: 00:00:00.4375000 || Start at :12/29/2017 8:22:53 AM
+
+Process ID: 7348 ||Process Name: svchost || User Time: 00:00:01.9687500 || Start at :12/23/2017 7:32:52 PM
+
+Process ID: 1744 ||Process Name: svchost || User Time: 00:00:05.0156250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 11656 ||Process Name: browser || User Time: 00:01:47.9843750 || Start at :12/29/2017 8:52:45 PM
+
+Process ID: 12516 ||Process Name: ScriptedSandbox64 || User Time: 00:00:56.8593750 || Start at :12/29/2017 10:47:31 PM
+
+Process ID: 5624 ||Process Name: MSASCuiL || User Time: 00:00:00.0312500 || Start at :12/29/2017 8:22:53 AM
+
+Process ID: 11648 ||Process Name: FMAPP || User Time: 00:00:05.0468750 || Start at :12/29/2017 2:45:00 PM
+
+Process ID: 872 ||Process Name: svchost || User Time: 00:00:00.0156250 || Start at :12/23/2017 7:32:43 PM
+
+Process ID: 11212 ||Process Name: svchost || User Time: 00:00:05.2500000 || Start at :12/29/2017 8:22:42 AM
+
+Process ID: 4 ||Process Name: System || User Time: 03:37:47.7656250 || Start at :12/23/2017 7:32:40 PM
+
+Process ID: 4744 ||Process Name: sqlceip || User Time: 00:00:07.0156250 || Start at :12/23/2017 7:32:45 PM
+
+Process ID: 860 ||Process Name: browser || User Time: 00:02:09.7812500 || Start at :12/29/2017 6:00:48 PM
+
+Process ID: 3880 ||Process Name: svchost || User Time: 00:00:00.1250000 || Start at :12/23/2017 7:32:49 PM
+

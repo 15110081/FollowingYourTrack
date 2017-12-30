@@ -1,0 +1,301 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\GongShell.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\GongShell.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+G:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\LockFolder.exe
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\LockFolder.pdb
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\LockFolder.xml
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\QRCode.dll
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+E:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\keylogger.exe
+E:\FollowingYourTrack\FollowingYourTrack\bin\Debug\keylogger.pdb
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\QRCode.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\keylogger.exe
+E:\do an 1\FollowingYourTrack\FollowingYourTrack\bin\Debug\keylogger.pdb
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\QRCode.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+C:\Program Files\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+F:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+F:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\QRCode.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+I:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+I:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+F:\ \FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.CoreCompileInputs.cache
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+F:\ \FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe.config
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.exe
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\FollowingYourTrack.pdb
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Design.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\MetroFramework.Fonts.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.dll
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.xml
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.xml
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\AForge.Video.DirectShow.xml
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.pdb
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.xml
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.pdb
+D:\FollowingYourTrack\FollowingYourTrack\bin\Debug\zxing.presentation.xml
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csprojResolveAssemblyReference.cache
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.CPU.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.DangKy.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Form1.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.formOption.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Login.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQR.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.MessageBoxOK.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_explorer.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_home.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_manager.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.page_support.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.password.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.Properties.Resources.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.QRCodeDLL.resources
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.GenerateResource.Cache
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.csproj.CoreCompileInputs.cache
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.exe
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.pdb
+D:\FollowingYourTrack\FollowingYourTrack\obj\Debug\FollowingYourTrack.LoginQRStop.resources
